@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-13T07:03:12.123Z'
-dateModified: '2016-01-13T07:01:38.554Z'
+datePublished: '2016-01-13T11:00:01.013Z'
+dateModified: '2016-01-13T10:59:55.023Z'
 title: Sun-Moon-Lake Ride
 author: []
 sourcePath: _posts/2016-01-13-sun-moon-lake-ride.md
