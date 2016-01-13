@@ -1,6 +1,6 @@
 name: Taiwan Number One
 favicon: null
-layout_spectrum: 0.75149
+layout_spectrum: 0.49745
 typography_spectrum: 0.0779284609016031
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#68bdde'
     - '#524c2c'
     - '#9e936a'
-  brandStrength: 0.16225190903060138
+  brandStrength: 0.5
   lightness: 0.7557612846139818
   saturation: 0.9118311691563576
-  rhythmicContrast: 0.8876662841066718
+  rhythmicContrast: 1
 purpose: []
