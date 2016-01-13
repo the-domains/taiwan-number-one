@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-13T00:22:11.945Z'
-dateModified: '2016-01-13T00:21:35.440Z'
+datePublished: '2016-01-13T00:42:52.127Z'
+dateModified: '2016-01-13T00:42:42.655Z'
 title: Sun-Moon-Lake Ride
 author: []
+sourcePath: _posts/2016-01-13-sun-moon-lake-ride.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-13-sun-moon-lake-ride.md
-published: true
 url: sun-moon-lake-ride/index.html
 _type: Article
 
