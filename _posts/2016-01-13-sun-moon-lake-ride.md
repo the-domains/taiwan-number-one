@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-13T11:00:01.013Z'
-dateModified: '2016-01-13T10:59:55.023Z'
+datePublished: '2016-01-13T13:52:25.897Z'
+dateModified: '2016-01-13T13:51:09.632Z'
 title: Sun-Moon-Lake Ride
 author: []
 sourcePath: _posts/2016-01-13-sun-moon-lake-ride.md
@@ -25,9 +25,9 @@ _type: Article
 # Sun-Moon-Lake Ride
 
 My first ride this year lead me from Taipei to Dili in Nantou County via the awesome mountain road 21 to Puli and the Sun Moon Lake.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/12776e84-9d1d-4fd3-af09-58a910c6766c.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bffce688-47c4-4d0c-8583-40fc0194a6aa.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a60e636d-5a9a-45ea-9694-4cd58c618a52.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe1ad37d-e609-4260-a23b-dab6fa506f9b.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f46394a2-49d5-401e-940c-d3e5214376fe.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c6c38af-3b22-462a-951e-357615f95ad8.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/61f1fe4d7e5d811d2fd33a21adb577e7bf432126.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/88421c0782505b5012b502dae40b9691cb16f593.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/55fbebec10f94c92c6a3f4a328b8303292e76658.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/321d68e42ea26e9a4b2e363d77f0abdfcd5bdaa8.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f8124279a169a486013492d34335e1c1844bfd1.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c1947a6c0801435e271e66499a85bdb62b17cec5.jpg)
